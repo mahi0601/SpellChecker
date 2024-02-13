@@ -48,8 +48,9 @@ The symmetric delete distance algorithm is utilized to calculate the similarity 
 
 5. **Performance Metrics:**
    - The application provides response time metrics for both synchronous and asynchronous spell-checking modes.
-
-   ![Response Time Screenshot](screenshots/response_time_screenshot.png)
+     
+   ![Response Time Screenshot](spellcheckerresult.png)
+   ![Response Time Screenshot](spellchecker.png)
 
    *Response Time per 1000 words (Sync): [0.1] seconds*
 
@@ -69,6 +70,6 @@ This project is licensed under the [MIT License](LICENSE.md).
 ## Acknowledgments
 
 Special thanks to the open-source community and contributors for their valuable contributions and support in making the Spell Checker Project a reliable and efficient tool for textual refinement.
-```
+
 
 
