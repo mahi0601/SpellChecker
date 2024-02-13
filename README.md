@@ -1,8 +1,6 @@
 # SpellChecker
 The Spell Checker Project is a robust text processing tool designed to identify and correct spelling errors in textual content. Leveraging advanced algorithms and linguistic analysis, this project aims to enhance the accuracy and readability of written material by providing automated spell-checking capabilities.
-Certainly! To add a screenshot and include the response time per 1000 words, you can modify the README.md as follows:
 
-```markdown
 # Spell Checker Project
 
 ## Overview
@@ -11,15 +9,15 @@ The Spell Checker Project is a Python-based application that provides robust spe
 
 ## Features
 
-- **Trie-Based Spell Checking:** The project utilizes a Trie data structure for efficient and fast spell checking. The Trie allows for quick searches within a given edit distance, providing accurate suggestions for misspelled words.
+- Trie-Based Spell Checking: The project utilizes a Trie data structure for efficient and fast spell-checking. The Trie allows for quick searches within a given edit distance, providing accurate suggestions for misspelled words.
 
-- **Symmetric Delete Distance Algorithm:** The spell checker employs a symmetric delete distance algorithm to determine the similarity between two words. This algorithm helps identify the best spelling suggestions for a given misspelled word.
+- Symmetric Delete Distance Algorithm: The spell checker employs a symmetric delete distance algorithm to determine the similarity between two words. This algorithm helps identify the best spelling suggestions for a given misspelled word.
 
-- **User-Friendly Interface:** The application comes with a user-friendly graphical interface built using Tkinter. Users can input text and check spelling with just a few clicks.
+- User-Friendly Interface: The application comes with a user-friendly graphical interface built using Tkinter. Users can input text and check spelling with just a few clicks.
 
-- **Custom Dictionary Support:** Users have the option to add words to a custom dictionary, allowing for a personalized spell-checking experience. The custom dictionary is considered during spell-checking, enhancing the flexibility of the tool.
+- Custom Dictionary Support: Users have the option to add words to a custom dictionary, allowing for a personalized spell-checking experience. The custom dictionary is considered during spell-checking, enhancing the flexibility of the tool.
 
-- **Performance Metrics:** The project includes functionality to measure the response time of the spell-checking process, both in synchronous and asynchronous modes. This can be valuable for users seeking to optimize the performance of the spell checker.
+- Performance Metrics: The project includes functionality to measure the response time of the spell-checking process, both in synchronous and asynchronous modes. This can be valuable for users seeking to optimize the performance of the spell checker.
 
 ## Algorithm
 
