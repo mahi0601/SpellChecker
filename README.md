@@ -71,4 +71,4 @@ This project is licensed under the [MIT License](LICENSE.md).
 Special thanks to the open-source community and contributors for their valuable contributions and support in making the Spell Checker Project a reliable and efficient tool for textual refinement.
 ```
 
-Replace `[Your Response Time Value]` with the actual response time values you want to display. Additionally, replace `screenshots/response_time_screenshot.png` with the correct path to your response time screenshot.
+
